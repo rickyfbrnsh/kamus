@@ -2,6 +2,7 @@
     "name": "rickyfbrnsh/kamus",
     "description": "kamus",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "rickyfbrnsh",
