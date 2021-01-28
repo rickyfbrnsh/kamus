@@ -1,0 +1,12 @@
+{
+    "name": "rickyfbrnsh/kamus",
+    "description": "kamus",
+    "type": "library",
+    "authors": [
+        {
+            "name": "rickyfbrnsh",
+            "email": "rickyfbrnsh28@gmail.com"
+        }
+    ],
+    "require": {}
+}
