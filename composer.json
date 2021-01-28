@@ -9,5 +9,13 @@
             "email": "rickyfbrnsh28@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Ricky\\Kamus\\": "/"
+        },
+        "files": [
+            "helpers.php"
+        ]
+    },
     "require": {}
 }
